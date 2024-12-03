@@ -2,21 +2,10 @@
 
 <!--
 **robevansuk/robevansuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-# Hello :)
-
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robevansuk)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robevansuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on the Byzgen blockchain platform to secure data using distributed threshold encryption
+- 🌱 I’m currently learning how to be a better team leader. Improving developer experience through faster builds (300%), more reliable tests (100%), increasing value demand as well as removing failure demand, simplifying processes and more.
+- 💬 Ask me about blockchain, AI, crypto, systems design, 
+- 📫 How to reach me: email/twitter
+- ⚡ Fun fact: I built a crypto exchange API library for coinbase back when its trading front-end was called GDAX rather than, rather than coinbase-pro.
